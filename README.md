@@ -1,2 +1,2 @@
 # Mova
-School asignment
+Bootstrap e-commerce School asignment
